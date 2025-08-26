@@ -1,0 +1,14 @@
+requests
+pandas
+python-dotenv
+streamlit
+flask
+beautifulsoup4
+selenium
+playwright
+pytest
+matplotlib
+openpyxl
+xlsxwriter
+geonamescache
+plotly
