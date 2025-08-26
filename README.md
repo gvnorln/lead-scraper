@@ -117,4 +117,4 @@ streamlit run ui/streamlit_app.py
 ## 7. Demo & Video Link
 
 - **Video Walkthrough (1–2 min):** [YouTube/Drive link](https://youtu.be/your-video-link)  
-- **Live Demo (Streamlit App):** [Click here to try the app](https://share.streamlit.io/username/lead-scraper/main/ui/streamlit_app.py)
+- **Live Demo (Streamlit App):** https://lead-scraper-demo.streamlit.app/
